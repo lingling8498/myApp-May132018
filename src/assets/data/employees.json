@@ -1,0 +1,7 @@
+[
+    {"id": 1, "name": "Andrew", "age": 30, "city": "Vancouver"},
+    {"id": 2, "name": "Brandon", "age": 25, "city": "Vancouver"},
+    {"id": 3, "name": "Christina", "age": 28, "city": "Vancouver"},
+    {"id": 4, "name": "Elena", "age": 46, "city": "Vancouver"},
+    {"id": 5, "name": "Helen", "age": 50, "city": "Vancouver"}
+]
